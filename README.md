@@ -2,7 +2,7 @@
 
 Hi all, 
 
-You can find useful resources that can help you in the journey of understaning AI and it's applications in various applied fields including:
+In this repo, you can find useful resources that can help you in the journey of understaning AI and leveraging it's applications in various applied fields including:
 
 1. Data Analytics
 2. Data Science
